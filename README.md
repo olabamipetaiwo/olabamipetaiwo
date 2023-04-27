@@ -23,13 +23,12 @@ takeholders to deliver high-quality software that meets the needs of the end-use
 
 Some of the past solutions I have worked on include:
 
-https://zupa.ng (Sales Tool)
-https://app.mypatricia.co/login (Trade Crypto)
-https://gourmettwist.ng/
-https://www.deelaa.com/
-https://business.mypatricia.co/ (Crypto Payment)
-https://www.flyaero.com/ (Internet Booking Engine)
-https://dev-website.gadevenv.com/ (Airline Booking Web App)
+https://zupa.ng (Sales Tool) <br />
+https://gourmettwist.ng/ <br />
+https://www.deelaa.com/ <br />
+https://business.mypatricia.co/ (Crypto Payment) <br />
+https://www.flyaero.com/ (Internet Booking Engine) <br />
+https://dev-website.gadevenv.com/ (Airline Booking Web App) <br />
 
 
 - 💬 Ask me about anything, i am happy to help;
