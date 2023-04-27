@@ -9,8 +9,27 @@
 <br />
 <br />
 
-Hi, I'm [Olabamipe Taiwo](https://www.linkedin.com/in/olabamipe-taiwo-8753b9130/), a Frontend engineer proficient in translating designs and wireframes into high-quality code to deliver 
-well-developed solutions that are both technically and aesthetically sound, thus improving user experience  & company's revenue.
+Hi, I'm [Olabamipe Taiwo](https://www.linkedin.com/in/olabamipe-taiwo-8753b9130/), I am a software engineer, a graduate of computer science with close to 4 years of experience with a specialization in creating and maintaining efficient software applications using a variety of appropriate web technologies that work across all platforms and browsers. I care deeply about building interfaces that are beautiful, usable, and pleasant for a diverse number of people possible, I have worked on a variety of projects in different industries ranging from health, Education, Ecommerce, Sales Tools, and Airlines, and my recent experience from the crypto world.
+
+<br />
+
+My technical skills include proficiency in programming languages such as JavaScript, Typescript, Php, and a little bit of Python for ML. I also have extensive knowledge of libraries and frameworks like React, React-Native, Vue, Next, Nuxt, Laravel, and ExpressJs, and testing tools such as Cypress, Jest, & React-testing-library on the FE side of things. I pay attention to concepts such as Page
+ Optimization(speed & SEO), Accessibility, and Responsive design to create performant products with delightful user experiences.
+ 
+<br />
+I have experience in communicating with stakeholders, other technical teams, and management to collect requirements and describe software product features, and technical designs, I understand the importance of working closely with team members and stakeholders to deliver high-quality software that meets the needs of the end-users, thus generating revenue for the company. I prioritize staying up-to-date with the latest technology trends and applying them to improve the efficiency and functionality of the software applications I work on.
+
+takeholders to deliver high-quality software that meets the needs of the end-users, thus generating revenue for the company. I prioritize staying up-to-date with the latest technology trends and applying them to improve the efficiency and functionality of the software applications I work on.
+
+Some of the past solutions I have worked on include:
+
+https://zupa.ng (Sales Tool)
+https://app.mypatricia.co/login (Trade Crypto)
+https://gourmettwist.ng/
+https://www.deelaa.com/
+https://business.mypatricia.co/ (Crypto Payment)
+https://www.flyaero.com/ (Internet Booking Engine)
+https://dev-website.gadevenv.com/ (Airline Booking Web App)
 
 
 - 💬 Ask me about anything, i am happy to help;
