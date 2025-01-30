@@ -9,17 +9,27 @@
 <br />
 <br />
 
-Hi, I'm [Olabamipe Taiwo](https://www.linkedin.com/in/olabamipe-taiwo-8753b9130/), I am a software engineer, a graduate of computer science with close to 4 years of experience with a specialization in creating and maintaining efficient software applications using a variety of appropriate web technologies that work across all platforms and browsers. I care deeply about building interfaces that are beautiful, usable, and pleasant for a diverse number of people possible, I have worked on a variety of projects in different industries ranging from health, Education, Ecommerce, Sales Tools, and Airlines, and my recent experience from the crypto world.
+Hi, I'm [Olabamipe Taiwo](https://www.linkedin.com/in/olabamipe-taiwo-8753b9130/), As a highly skilled Software Engineer with nearly four years of experience in web development, I specialize in creating high-performing, scalable, and user-friendly software applications across diverse industries, including healthcare, education, e-commerce, sales tools, airlines, and the rapidly evolving crypto world.
 
 <br />
 
-My technical skills include proficiency in programming languages such as JavaScript, Typescript, Php, and a little bit of Python for ML. I also have extensive knowledge of libraries and frameworks like React, React-Native, Vue, Next, Nuxt, Laravel, and ExpressJs, and testing tools such as Cypress, Jest, & React-testing-library on the FE side of things. I pay attention to concepts such as Page
- Optimization(speed & SEO), Accessibility, and Responsive design to create performant products with delightful user experiences.
+I am passionate about delivering exceptional user experiences by building interfaces that are not only visually appealing but also intuitive, fast, and responsive. My technical expertise spans a variety of modern web technologies, including JavaScript, TypeScript, PHP, Python (for ML), and a strong command of frameworks such as React, Vue, Next.js, Nuxt.js, Laravel, and Express.js.
+
+<br />
+
+
+With a deep understanding of page optimization (speed & SEO), accessibility, and responsive design, I ensure that every product I work on is not only functional but also delivers delightful, engaging experiences. My front-end development skills are complemented by experience with testing tools like Cypress, Jest, and React Testing Library.
+
+<br />
+
+I excel in collaborating with stakeholders and cross-functional teams to gather requirements and translate them into effective technical solutions. I am adept at communicating complex technical concepts clearly to non-technical teams, ensuring alignment and driving successful project outcomes. My ability to deliver software that enhances business performance and user satisfaction directly contributes to increased revenue for my clients.
+
+<br />
+
+I am committed to staying at the forefront of technology trends and continuously improving the software I develop, ensuring that it remains efficient, scalable, and future-proof.
+
+<br />
  
-<br />
-I have experience in communicating with stakeholders, other technical teams, and management to collect requirements and describe software product features, and technical designs, I understand the importance of working closely with team members and stakeholders to deliver high-quality software that meets the needs of the end-users, thus generating revenue for the company. I prioritize staying up-to-date with the latest technology trends and applying them to improve the efficiency and functionality of the software applications I work on.
-
-takeholders to deliver high-quality software that meets the needs of the end-users, thus generating revenue for the company. I prioritize staying up-to-date with the latest technology trends and applying them to improve the efficiency and functionality of the software applications I work on.
 
 Some of the past solutions I have worked on include:
 
