@@ -1,7 +1,5 @@
 ### Hi there, I'm Olabamipe Taiwo 
 
-<br />
-
 I am a **PhD Student in Computer Science** specializing in **Security and Privacy** for Machine Learning systems. 
 
 Leveraging 4+ years of professional Software Engineering experience, I bridge the gap between theoretical research and scalable, production-grade implementation. My goal is to apply rigorous academic research to solve real-world industry challenges in AI safety and model deployment.
