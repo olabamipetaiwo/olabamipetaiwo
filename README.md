@@ -24,12 +24,12 @@ I am currently transitioning from full-stack engineering to deep learning resear
 
 Before starting my PhD, I built high-performance web applications for healthcare, fintech, and aviation. Some deployed solutions include:
 
-* [GreenAfrica.com](https://www.greenafrica.com/) (Airline Booking Web App)
-* [Patricia Business](https://business.mypatricia.co/) (Crypto Payment Gateway)
-* [Zupa.ng](https://zupa.ng) (Sales & Inventory Tool)
-* [FlyAero](https://www.flyaero.com/) (Internet Booking Engine)
-* [Gourmet Twist](https://gourmettwist.ng/) (E-commerce)
-
+* [GreenAfrica.com](https://www.greenafrica.com/) (Airline Booking Platform)
+* [3MTT NITDA](https://3mtt.nitda.gov.ng/) (Government Tech Talent Portal)
+* [Zupa.ng](https://zupa.ng/) (Sales & Inventory Management)
+* [FlyAero.com](https://www.flyaero.com/) (Aviation Booking Engine)
+* [HerVest.ng](https://hervest.ng/) (Fintech & Investment Platform)
+* [Whatadeal.africa](https://whatadeal.africa/) (E-commerce Marketplace)
 ---
 
 ### Languages and Tools
