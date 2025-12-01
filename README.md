@@ -16,29 +16,37 @@ Leveraging 4+ years of professional Software Engineering experience, I bridge th
 
 ---
 
-### 🔭 Current Research & Focus
+### 🔭 Current Focus & Research
 
-* **PhD Research:** Investigating privacy discrepancies in Large Language Models (LLMs) vs. their stated policies (Targeting USENIX Security 2026).
-* **The "15 Paper Challenge":** I am currently reproducing 15 top-tier ML papers (from NeurIPS, CVPR, ICML) to build deep intuition in model architecture.
-* **Engineering:** Leading the frontend architecture for "Fakeflix" (Open Source Project).
+I am currently transitioning from full-stack engineering to deep learning research. My active areas of work include:
 
-### 🚀 The Journey: From Full-Stack to Deep Learning
+* **PhD Research:** Investigating privacy discrepancies and data leakage in Large Language Models (LLMs).
+* **Model Reproduction:** I am actively working on reproducing 15 top-tier ML papers (NeurIPS, CVPR, ICML) to bridge the gap between theory and code.
+* **Open Source:** Leading the frontend architecture for collaborative streaming platforms.
 
-I spent 4 years building high-performance web applications for healthcare, fintech, and aviation. Now, I use that engineering discipline to build robust ML pipelines.
+*(New ML projects and paper reproductions will be added here as they are completed.)*
 
-* **Writing:** I document my transition and technical deep-dives in my series: *"Mastering PyTorch: From Linear Regression to Computer Vision."*
-* **Interests:** Adversarial Machine Learning, Model Interpretability, Computer Vision, and Bayesian Statistics.
+---
+
+### 💻 Production Engineering (Past Work)
+
+Before starting my PhD, I built high-performance web applications for healthcare, fintech, and aviation. Some deployed solutions include:
+
+* [GreenAfrica.com](https://www.greenafrica.com/) (Airline Booking Web App)
+* [Patricia Business](https://business.mypatricia.co/) (Crypto Payment Gateway)
+* [Zupa.ng](https://zupa.ng) (Sales & Inventory Tool)
+* [FlyAero](https://www.flyaero.com/) (Internet Booking Engine)
+* [Gourmet Twist](https://gourmettwist.ng/) (E-commerce)
 
 ---
 
 ### 🛠 Languages and Tools
 
-**Machine Learning & Data Science**
+**Machine Learning & Research**
 <br>
 <img height="20" src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white">
 <img height="20" src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white">
 <img height="20" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
-<img height="20" src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white">
 <img height="20" src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white">
 
 **Software Engineering Core**
@@ -50,17 +58,6 @@ I spent 4 years building high-performance web applications for healthcare, finte
 <img height="20" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
 
 ---
-
-### 📈 Projects
-
-| Project | Description | Stack |
-| :--- | :--- | :--- |
-| **LLM Privacy Analysis** | Researching data leakage in modern Chatbots. | Python, PyTorch, LangChain |
-| **Paper Reproductions** | My repository of 15+ implemented research papers. | PyTorch, NumPy |
-| **Fakeflix** | Collaborative open-source streaming platform alternative. | React, TypeScript, Node |
-| **Web Logs Analysis** | Incident response and log analysis automation. | Splunk, Linux, Python |
-
-<br />
 
 - 💬 **Ask me about:** Transitioning from Web Dev to AI, Privacy in LLMs, or React performance optimization.
 - 📫 **Reach me:** [LinkedIn](https://www.linkedin.com/in/olabamipe-taiwo-8753b9130/)
