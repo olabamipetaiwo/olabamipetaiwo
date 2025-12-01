@@ -1,10 +1,10 @@
-### Hi there, I'm Olabamipe Taiwo 👋
+### Hi there, I'm Olabamipe Taiwo 
 
 <a href="https://twitter.com/ola6lcvk">
-  <img align="left" alt="Olabamipe Taiwo | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+Twiteer
 </a>
 <a href="https://www.linkedin.com/in/olabamipe-taiwo-8753b9130/">
-  <img align="left" alt="Olabamipe Taiwo 's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+ Linkedin
 </a>
 
 <br />
@@ -16,7 +16,7 @@ Leveraging 4+ years of professional Software Engineering experience, I bridge th
 
 ---
 
-### 🔭 Current Focus & Research
+###  Current Focus & Research
 
 I am currently transitioning from full-stack engineering to deep learning research. My active areas of work include:
 
@@ -40,7 +40,7 @@ Before starting my PhD, I built high-performance web applications for healthcare
 
 ---
 
-### 🛠 Languages and Tools
+### Languages and Tools
 
 **Machine Learning & Research**
 <br>
@@ -59,5 +59,5 @@ Before starting my PhD, I built high-performance web applications for healthcare
 
 ---
 
-- 💬 **Ask me about:** Transitioning from Web Dev to AI, Privacy in LLMs, or React performance optimization.
-- 📫 **Reach me:** [LinkedIn](https://www.linkedin.com/in/olabamipe-taiwo-8753b9130/)
+- **Ask me about:** Transitioning from Web Dev to AI, Privacy in LLMs, or React performance optimization.
+-  **Reach me:** [LinkedIn](https://www.linkedin.com/in/olabamipe-taiwo-8753b9130/)
