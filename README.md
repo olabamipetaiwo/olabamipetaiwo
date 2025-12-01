@@ -6,7 +6,7 @@ I am a **PhD Student in Computer Science** specializing in **Security and Privac
 
 Leveraging 4+ years of professional Software Engineering experience, I bridge the gap between theoretical research and scalable, production-grade implementation. My goal is to apply rigorous academic research to solve real-world industry challenges in AI safety and model deployment.
 
----
+--
 
 ### Current Focus & Research
 
@@ -18,7 +18,7 @@ I am currently transitioning from full-stack engineering to deep learning resear
 
 *(New ML projects and paper reproductions will be added here as they are completed.)*
 
----
+--
 
 ### Production Engineering (Past Work)
 
