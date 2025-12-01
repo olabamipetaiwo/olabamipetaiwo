@@ -1,13 +1,5 @@
 ### Hi there, I'm Olabamipe Taiwo 
 
-<a href="https://twitter.com/ola6lcvk">
-Twiteer
-</a>
-<a href="https://www.linkedin.com/in/olabamipe-taiwo-8753b9130/">
- Linkedin
-</a>
-
-<br />
 <br />
 
 I am a **PhD Student in Computer Science** specializing in **Security and Privacy** for Machine Learning systems. 
@@ -16,19 +8,19 @@ Leveraging 4+ years of professional Software Engineering experience, I bridge th
 
 ---
 
-###  Current Focus & Research
+### Current Focus & Research
 
 I am currently transitioning from full-stack engineering to deep learning research. My active areas of work include:
 
 * **PhD Research:** Investigating privacy discrepancies and data leakage in Large Language Models (LLMs).
 * **Model Reproduction:** I am actively working on reproducing 15 top-tier ML papers (NeurIPS, CVPR, ICML) to bridge the gap between theory and code.
-* **Open Source:** Leading the frontend architecture for collaborative streaming platforms.
+* **Deep Learning Tooling:** Leveraging my software engineering background to research and build robust tools that streamline Deep Learning workflows.
 
 *(New ML projects and paper reproductions will be added here as they are completed.)*
 
 ---
 
-### 💻 Production Engineering (Past Work)
+### Production Engineering (Past Work)
 
 Before starting my PhD, I built high-performance web applications for healthcare, fintech, and aviation. Some deployed solutions include:
 
@@ -51,6 +43,8 @@ Before starting my PhD, I built high-performance web applications for healthcare
 
 **Software Engineering Core**
 <br>
+<img height="20" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+<img height="20" src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D">
 <img height="20" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
 <img height="20" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
 <img height="20" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white">
@@ -61,3 +55,8 @@ Before starting my PhD, I built high-performance web applications for healthcare
 
 - **Ask me about:** Transitioning from Web Dev to AI, Privacy in LLMs, or React performance optimization.
 -  **Reach me:** [LinkedIn](https://www.linkedin.com/in/olabamipe-taiwo-8753b9130/)
+-  **Reach me:** [X](https://twitter.com/ola6lcvk/)
+
+
+
+
