@@ -6,8 +6,6 @@ I am a **PhD Student in Computer Science** specializing in **Security and Privac
 
 Leveraging 4+ years of professional Software Engineering experience, I bridge the gap between theoretical research and scalable, production-grade implementation. My goal is to apply rigorous academic research to solve real-world industry challenges in AI safety and model deployment.
 
---
-
 ### Current Focus & Research
 
 I am currently transitioning from full-stack engineering to deep learning research. My active areas of work include:
@@ -18,7 +16,6 @@ I am currently transitioning from full-stack engineering to deep learning resear
 
 *(New ML projects and paper reproductions will be added here as they are completed.)*
 
---
 
 ### Production Engineering (Past Work)
 
@@ -30,7 +27,6 @@ Before starting my PhD, I built high-performance web applications for healthcare
 * [FlyAero.com](https://www.flyaero.com/) (Aviation Booking Engine)
 * [HerVest.ng](https://hervest.ng/) (Fintech & Investment Platform)
 * [Whatadeal.africa](https://whatadeal.africa/) (E-commerce Marketplace)
----
 
 ### Languages and Tools
 
@@ -50,8 +46,6 @@ Before starting my PhD, I built high-performance web applications for healthcare
 <img height="20" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white">
 <img height="20" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
 <img height="20" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
-
----
 
 - **Ask me about:** Transitioning from Web Dev to AI, Privacy in LLMs, or React performance optimization.
 -  **Reach me:** [LinkedIn](https://www.linkedin.com/in/olabamipe-taiwo-8753b9130/)
