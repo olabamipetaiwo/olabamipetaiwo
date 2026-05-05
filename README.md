@@ -9,10 +9,10 @@ Leveraging 4+ years of professional Software Engineering experience, I bridge th
 I am currently transitioning from full-stack engineering to deep learning research. My active areas of work include:
 
 * **PhD Research:** Investigating privacy discrepancies and data leakage in Large Language Models (LLMs).
-* **Model Reproduction:** I am actively working on reproducing 15 top-tier ML papers (NeurIPS, CVPR, ICML) to bridge the gap between theory and code.
+
 * **Deep Learning Tooling:** Leveraging my software engineering background to research and build robust tools that streamline Deep Learning workflows.
 
-*(New ML projects and paper reproductions will be added here as they are completed.)*
+
 
 
 ### Production Engineering (Past Work)
